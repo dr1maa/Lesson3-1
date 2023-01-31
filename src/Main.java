@@ -13,6 +13,7 @@ public class Main {
         arr.add(20);
         arr.add(2);
         arr.add(3);
+        arr.add(3);
         System.out.println(arr);
         Iterator<Integer> arrayIterator = arr.iterator();
         while (arrayIterator.hasNext()) {
