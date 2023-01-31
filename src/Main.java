@@ -12,7 +12,6 @@ public class Main {
         arr.add(-2);
         arr.add(20);
         arr.add(2);
-
         arr.add(3);
         System.out.println(arr);
         Iterator<Integer> arrayIterator = arr.iterator();
